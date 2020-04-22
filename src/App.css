@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.marginAndPadding{
+  margin: 2em;
+  padding: 2em;
+  border-radius: 2em;
+  text-align: center;
+}
+.marginAuto{
+  margin-top: 50px ;
+  text-align: center;
+}
